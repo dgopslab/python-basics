@@ -31,7 +31,7 @@ name = "Daniel"
 age = 40
 ```
 
-# Datentypen
+## Datentypen
 
 Zu den grundlegenden Datentypen, mit denen ich bisher gearbeitet habe, gehören:
 
@@ -40,7 +40,7 @@ Zu den grundlegenden Datentypen, mit denen ich bisher gearbeitet habe, gehören:
 - float für Kommazahlen
 - bool für Wahrheitswerte wie True oder False
 
-# Ausgabe mit print()
+## Ausgabe mit print()
 
 Mit print() können Inhalte in der Konsole ausgegeben werden.
 
@@ -48,7 +48,7 @@ Mit print() können Inhalte in der Konsole ausgegeben werden.
 print("Hello World!")
 ```
 
-# Eingabe mit input()
+## Eingabe mit input()
 
 Mit input() können Benutzereingaben abgefragt werden.
 
@@ -57,7 +57,7 @@ name = input("Wie heißt du? ")
 print(name)
 ```
 
-# Strings
+## Strings
 
 Strings sind Texte. Mit ihnen kann man zum Beispiel Namen, Begriffe oder ganze Sätze speichern und ausgeben.
 
@@ -66,7 +66,7 @@ vorname = "Daniel"
 print(vorname)
 ```
 
-# Was ich aus den ersten Grundlagen mitnehme
+## Was ich aus den ersten Grundlagen mitnehme
 
 Die Basics helfen mir vor allem dabei, zu verstehen:
 
@@ -75,7 +75,7 @@ Die Basics helfen mir vor allem dabei, zu verstehen:
 - wie Ein- und Ausgaben funktionieren
 - wie erste kleine Programme aufgebaut sind
 
-# Aktueller Stand
+## Aktueller Stand
 
 Ich arbeite aktuell an einem sauberen Verständnis der Python-Grundlagen und an ersten kleinen Übungen und Konsolenprogrammen.
 
