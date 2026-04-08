@@ -34,12 +34,12 @@ else:
 
 Bedingungen arbeiten oft mit Vergleichsoperatoren, zum Beispiel:
 
-- == gleich
-- != ungleich
-- > größer als
-- < kleiner als
-- >= größer oder gleich
-- <= kleiner oder gleich
+- `==` gleich
+- `!=` ungleich
+- `>` größer als
+- `<` kleiner als
+- `>=` größer oder gleich
+- `<=` kleiner oder gleich
 
 ## Schleifen
 
