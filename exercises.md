@@ -33,6 +33,12 @@ Typische Übungen aus meiner aktuellen Lernphase sind zum Beispiel:
 - einfache Funktionen
 - kleine Konsolenprogramme mit Benutzereingaben
 
+## Beispiel aus meiner aktuellen Lernphase
+
+Ein konkretes kleines Übungsprojekt ist mein [Caesar Cipher](caesar-cipher.md).
+
+Dabei kombiniere ich mehrere Grundlagen wie Eingaben, Bedingungen, Schleifen und String-Verarbeitung in einem kleinen Konsolenprogramm.
+
 ## Aktueller Stand
 
 Ich befinde mich aktuell noch im Grundlagenbereich und nutze Übungen vor allem dazu, ein sauberes Verständnis für die wichtigsten Python-Konzepte aufzubauen.
