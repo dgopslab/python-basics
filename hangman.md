@@ -13,4 +13,4 @@ Dieses kleine Projekt ist eine einfache Hangman-Version in Python.
 
 ## Datei
 
-- `hangman.py` – Python-Skript für das Spiel
+- [hangman.py](hangman.py) – Python-Skript für das Spiel
