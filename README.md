@@ -29,6 +29,11 @@ Ich nutze dieses Repository, um:
 - kleine Übungen und erste Programme gesammelt festzuhalten
 - meinen Lernfortschritt sichtbar zu machen
 
+## Mini-Projekte
+
+- [Caesar Cipher](caesar-cipher.md) – kleines Python-Projekt zum Üben von Strings, Schleifen und Bedingungen
+- [Hangman](hangman.md) – kleines Python-Projekt zum Üben von Schleifen, Bedingungen, Listen und Spielzuständen
+
 ## Aktueller Stand
 
 Mein Schwerpunkt liegt aktuell auf grundlegenden Python-Konzepten wie:
