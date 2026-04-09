@@ -18,6 +18,7 @@ Zurzeit befinde ich mich ungefähr im Bereich der ersten Grundlagen und habe im 
 - [Functions](functions.md)
 - [Exercises](exercises.md)
 - [Caesar Cipher](caesar-cipher.md)
+- [Hangman](hangman.md)
 
 ## Ziel dieses Repositories
 
