@@ -18,7 +18,7 @@ Am Ende wird ausgegeben, wer das höchste Gebot abgegeben hat.
 
 ## Datei
 
-- `silent_auction.py` – Python-Skript für die Anwendung
+- [`silent_auction.py`](silent_auction.py) – Python-Skript für die Anwendung
 
 ## Was ich dabei verstanden habe
 
