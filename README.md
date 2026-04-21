@@ -17,8 +17,6 @@ Zurzeit befinde ich mich ungefähr im Bereich der ersten Grundlagen und habe im 
 - [Control Flow](control-flow.md)
 - [Functions](functions.md)
 - [Exercises](exercises.md)
-- [Caesar Cipher](caesar-cipher.md)
-- [Hangman](hangman.md)
 - [Dictionary](dictionaries.md)
 
 ## Ziel dieses Repositories
