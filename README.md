@@ -9,7 +9,7 @@ Aktuell lerne ich Python unter anderem über:
 - **boot.dev**
 - **100 Days of Code (Udemy)**
 
-Zurzeit befinde ich mich ungefähr im Bereich der ersten Grundlagen und habe im Udemy-Kurs aktuell bis **Tag 9** gearbeitet.
+Zurzeit befinde ich mich ungefähr im Bereich der ersten Grundlagen und habe im Udemy-Kurs aktuell bis **Tag 11** gearbeitet.
 
 ## Inhalte
 
