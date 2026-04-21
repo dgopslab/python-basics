@@ -35,6 +35,7 @@ Ich nutze dieses Repository, um:
 - [Caesar Cipher](caesar-cipher.md) – kleines Python-Projekt zum Üben von Strings, Schleifen und Bedingungen
 - [Hangman](hangman.md) – kleines Python-Projekt zum Üben von Schleifen, Bedingungen, Listen und Spielzuständen
 - [Silent Auction](silent-auction.md) – kleines Python-Projekt zum Üben von Dictionaries, Funktionen, Schleifen und Benutzereingaben
+- [Calculator](calculator.md) – kleines Python-Projekt zum Üben von Funktionen, Rückgabewerten, Bedingungen und Benutzereingaben
 
 ## Aktueller Stand
 
