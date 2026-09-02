@@ -17,7 +17,7 @@ if age >= 18:
     print("Du bist volljährig.")
 ```
 
-Mit elif können weitere Bedingungen ergänzt werden, und mit else kann ein Standardfall abgefangen werden.
+Mit `elif` können weitere Bedingungen ergänzt werden. Mit `else` kann ein Fall behandelt werden, wenn die vorherigen Bedingungen nicht erfüllt sind.
 
 ```python
 score = 75
@@ -32,31 +32,31 @@ else:
 
 ## Vergleichsoperatoren
 
-Bedingungen arbeiten oft mit Vergleichsoperatoren, zum Beispiel:
+Bedingungen arbeiten häufig mit Vergleichsoperatoren, zum Beispiel:
 
-- `==` gleich
-- `!=` ungleich
-- `>` größer als
-- `<` kleiner als
-- `>=` größer oder gleich
-- `<=` kleiner oder gleich
+* `==` gleich
+* `!=` ungleich
+* `>` größer als
+* `<` kleiner als
+* `>=` größer oder gleich
+* `<=` kleiner oder gleich
 
 ## Schleifen
 
-Schleifen werden verwendet, wenn ein bestimmter Code mehrfach ausgeführt werden soll.
+Schleifen werden verwendet, wenn ein bestimmter Ablauf mehrfach ausgeführt werden soll.
 
-### for-Schleife
+### `for`-Schleife
 
-Eine for-Schleife wird oft verwendet, um über eine feste Anzahl oder über Elemente in einer Struktur zu laufen.
+Eine `for`-Schleife wird häufig verwendet, um nacheinander über mehrere Werte oder Elemente zu laufen.
 
 ```python
 for number in range(5):
     print(number)
 ```
 
-### while-Schleife
+### `while`-Schleife
 
-Eine while-Schleife läuft so lange, wie eine Bedingung erfüllt ist.
+Eine `while`-Schleife läuft so lange, wie eine Bedingung erfüllt ist.
 
 ```python
 count = 1
@@ -68,17 +68,15 @@ while count <= 3:
 
 ## Warum diese Grundlagen wichtig sind
 
-Mit Bedingungen und Schleifen lassen sich Programme deutlich flexibler aufbauen.
+Mit Bedingungen und Schleifen lassen sich Programme flexibel aufbauen.
 
 Sie helfen dabei:
 
-- Entscheidungen im Code abzubilden
-- Eingaben auszuwerten
-- wiederkehrende Abläufe zu automatisieren
-- Programme sinnvoll zu strukturieren
+* Entscheidungen im Code abzubilden
+* Eingaben auszuwerten
+* wiederkehrende Abläufe umzusetzen
+* Programme sinnvoll zu strukturieren
 
-## Aktueller Stand
+## Einordnung
 
-Ich arbeite aktuell daran, Bedingungen und Schleifen sicher zu verstehen und in kleinen Übungen anzuwenden.
-
-Gerade diese Grundlagen sind für mich wichtig, um später auch komplexere Programme und Automatisierungen besser aufbauen zu können.
+Bedingungen und Schleifen gehören zu den Grundlagen, die ich anschließend in verschiedenen Übungen und kleinen Konsolenprogrammen praktisch eingesetzt habe.
