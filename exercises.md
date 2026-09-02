@@ -2,7 +2,7 @@
 
 ## Ziel dieser Datei
 
-Hier sammle ich kleine Python-Übungen und erste Programme, mit denen ich grundlegende Konzepte festige.
+Hier sammle ich kleine Python-Übungen und erste Programme, mit denen ich grundlegende Konzepte praktisch angewendet habe.
 
 Dazu gehören vor allem:
 
@@ -14,33 +14,33 @@ Dazu gehören vor allem:
 
 ## Warum Übungen wichtig sind
 
-Gerade in der Anfangsphase helfen mir Übungen dabei, die Grundlagen nicht nur theoretisch zu verstehen, sondern auch praktisch anzuwenden.
+Gerade am Anfang haben mir Übungen dabei geholfen, die Grundlagen nicht nur theoretisch zu verstehen, sondern auch praktisch anzuwenden.
 
-Dabei geht es für mich vor allem darum:
+Dabei ging es für mich vor allem darum:
 
-- Syntax sicherer zu beherrschen
+- Syntax sicherer anzuwenden
 - Programmabläufe besser zu verstehen
 - Fehler zu erkennen und zu korrigieren
 - Schritt für Schritt sicherer im Schreiben von Code zu werden
 
 ## Beispiele für frühe Übungen
 
-Typische Übungen aus meiner aktuellen Lernphase sind zum Beispiel:
+Typische Übungen aus dieser Lernphase waren zum Beispiel:
 
 - kleine Begrüßungsprogramme
-- Abfragen mit `if / elif / else`
+- Abfragen mit `if`, `elif` und `else`
 - Schleifen mit `for` und `while`
 - einfache Funktionen
 - kleine Konsolenprogramme mit Benutzereingaben
 
-## Beispiel aus meiner aktuellen Lernphase
+## Beispiel aus dieser Lernphase
 
-Ein konkretes kleines Übungsprojekt ist mein [Caesar Cipher](caesar-cipher.md).
+Ein konkretes Übungsprojekt ist mein [Caesar Cipher](caesar-cipher.md).
 
-Dabei kombiniere ich mehrere Grundlagen wie Eingaben, Bedingungen, Schleifen und String-Verarbeitung in einem kleinen Konsolenprogramm.
+Dabei werden mehrere Grundlagen wie Eingaben, Bedingungen, Schleifen und String-Verarbeitung in einem kleinen Konsolenprogramm miteinander kombiniert.
 
-## Aktueller Stand
+## Einordnung
 
-Ich befinde mich aktuell noch im Grundlagenbereich und nutze Übungen vor allem dazu, ein sauberes Verständnis für die wichtigsten Python-Konzepte aufzubauen.
+Diese Datei dokumentiert frühe Python-Übungen aus meinem Lernweg.
 
-Mit der Zeit möchte ich hier auch erste eigene kleine Programme und ausgewählte Übungsbeispiele ergänzen.
+Weitere praktische Anwendungen entstehen inzwischen eher in eigenen Projekt-Repositories.
