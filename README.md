@@ -1,49 +1,80 @@
 # Python Basics
 
-Dieses Repository dient dazu, meine Lernnotizen, Übungen und ersten Programme im Bereich **Python** strukturiert festzuhalten.
+Dieses Repository dokumentiert Python-Grundlagen, Übungen und kleine Konsolenprogramme, die ich während meiner Umschulung zum **Fachinformatiker für Systemintegration** und beim zusätzlichen Lernen bearbeitet habe.
 
-## Hintergrund
+Es zeigt einen Teil meines bisherigen Lernwegs mit Python und bildet die Grundlage für eigene Projekte, in denen ich Python inzwischen praktisch einsetze.
 
-Aktuell lerne ich Python unter anderem über:
+## Dokumentierte Grundlagen
 
-- **boot.dev**
-- **100 Days of Code (Udemy)**
+Zu den bisher festgehaltenen Themen gehören:
 
-Zurzeit befinde ich mich ungefähr im Bereich der ersten Grundlagen und habe im Udemy-Kurs aktuell bis **Tag 11** gearbeitet.
+* [Grundlagen](basics.md)
+* [Control Flow](control-flow.md)
+* [Funktionen](functions.md)
+* [Dictionaries](dictionaries.md)
+* [Übungen](exercises.md)
 
-## Inhalte
+Dabei habe ich mich unter anderem mit folgenden Python-Grundlagen beschäftigt:
 
-- [Basics](basics.md)
-- [Control Flow](control-flow.md)
-- [Functions](functions.md)
-- [Exercises](exercises.md)
-- [Dictionary](dictionaries.md)
+* Variablen und Datentypen
+* Bedingungen
+* Schleifen
+* Listen und Dictionaries
+* Funktionen
+* Parameter und Rückgabewerte
+* Benutzereingaben
+* einfache Fehlerbehandlung
+* Strukturierung kleiner Konsolenprogramme
 
-## Ziel dieses Repositories
+## Lernübungen und Mini-Projekte
 
-Ich nutze dieses Repository, um:
+Im Repository befinden sich außerdem mehrere kleine Programme, mit denen ich verschiedene Python-Grundlagen praktisch geübt habe.
 
-- mein Verständnis von Python-Grundlagen zu festigen
-- wichtige Konzepte nachvollziehbar zu dokumentieren
-- kleine Übungen und erste Programme gesammelt festzuhalten
-- meinen Lernfortschritt sichtbar zu machen
+### Caesar Cipher
 
-## Mini-Projekte
+* [`caesar_cipher.py`](caesar_cipher.py)
+* [Notizen](caesar-cipher.md)
 
-- [Caesar Cipher](caesar-cipher.md) – kleines Python-Projekt zum Üben von Strings, Schleifen und Bedingungen
-- [Hangman](hangman.md) – kleines Python-Projekt zum Üben von Schleifen, Bedingungen, Listen und Spielzuständen
-- [Silent Auction](silent-auction.md) – kleines Python-Projekt zum Üben von Dictionaries, Funktionen, Schleifen und Benutzereingaben
-- [Calculator](calculator.md) – kleines Python-Projekt zum Üben von Funktionen, Rückgabewerten, Bedingungen und Benutzereingaben
+Übung zu Funktionen, Schleifen, Strings, Listen und Bedingungen.
+
+### Hangman
+
+* [`hangman.py`](hangman.py)
+* [Notizen](hangman.md)
+
+Übung zu Schleifen, Bedingungen, Listen und der Verwaltung eines einfachen Spielzustands.
+
+### Silent Auction
+
+* [`silent_auction.py`](silent_auction.py)
+* [Notizen](silent-auction.md)
+
+Übung zu Dictionaries, Funktionen, Schleifen und Benutzereingaben.
+
+### Calculator
+
+* [`calculator.py`](calculator.py)
+* [Notizen](calculator.md)
+
+Übung zu Funktionen, Rückgabewerten, Dictionaries, Benutzereingaben und einfacher Eingabevalidierung.
+
+## Einordnung der Übungen
+
+Ein Teil der Übungen und Mini-Projekte ist im Rahmen begleiteter Lernkurse entstanden.
+
+Ich nutze sie hier als Dokumentation meines damaligen Lernstands und der Python-Konzepte, die ich dabei praktisch nachvollzogen habe. Sie sind nicht als vollständig eigenständig konzipierte Projekte gedacht.
+
+## Aktuelle praktische Anwendung
+
+Python setze ich inzwischen auch in einem eigenen kleinen Projekt ein:
+
+### [NetBuddy](https://github.com/dgopslab/netbuddy)
+
+NetBuddy verbindet meine Python-Grundlagen mit Netzwerktechnik. Aktuell arbeite ich dort an der Verarbeitung von CIDR-Eingaben und der Prüfung des Präfixes und baue den IPv4-Subnetzrechner schrittweise weiter aus.
 
 ## Aktueller Stand
 
-Mein Schwerpunkt liegt aktuell auf grundlegenden Python-Konzepten wie:
+Dieses Repository wird nicht als vollständiges Python-Nachschlagewerk geführt.
 
-- Variablen
-- Datentypen
-- Bedingungen
-- Schleifen
-- Funktionen
-- einfachen Konsolenprogrammen
+Es dokumentiert ausgewählte Grundlagen, auf denen meine weiteren Python-Projekte aufbauen. Neue praktische Anwendungen möchte ich bevorzugt in den jeweiligen Projekt-Repositories entwickeln und dokumentieren.
 
-Später möchte ich darauf aufbauend auch kleine Skripte und praktische Automatisierungen entwickeln.
